@@ -124,7 +124,3 @@ qplot(interval, steps, data=table_interval_steps_imputed, geom=c("line"), xlab="
 ```
 
 This concludes that people are more lazy on Weekends rather then Weekdays.
-```{r}
-library(knitr)
-knit2html("PA1_template.Rmd", "PA1_template.html")
-```

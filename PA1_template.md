@@ -1,6 +1,6 @@
 ---
 title: "Reproduciable"
-author: "Arun"
+author: "Kali"
 date: "Sunday, June 14, 2015"
 output: html_document
 ---
