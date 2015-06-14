@@ -1,5 +1,5 @@
 ---
-title: "Reproducible Research"
+title: "Reproduciable"
 author: "Arun"
 date: "Sunday, June 14, 2015"
 output: html_document
@@ -180,5 +180,5 @@ qplot(interval, steps, data=table_interval_steps_imputed, geom=c("line"), xlab="
 
 <img src="PA1_template_files/figure-html/unnamed-chunk-23-1.png" title="" alt="" width="672" />
 
-This concludes that people are more lazy on Weekends rather then Weekdays. :)
+This concludes that people are more lazy on Weekends rather then Weekdays.
 
